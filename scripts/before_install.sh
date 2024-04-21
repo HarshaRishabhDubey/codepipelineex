@@ -10,4 +10,4 @@ curl -sL https://rpm.nodesource.com/setup_14.x | sudo -E bash -
 sudo yum -y install nodejs npm
 
 #_Download_PM2
-npm install pm2@latest -g
+sudo npm install pm2@latest -g
